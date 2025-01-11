@@ -1,9 +1,9 @@
 Introduction
 ============
 
-Seer - a gui frontend to gdb for Linux.   (Ernie Pasveer  epasveer@att.net)
+Seer - a gui frontend to gdb for Linux.   (Sebastian Ouslis  epasveer@att.net)
 
-This project is actively worked on. The aim is a simple, yet pleasing gui to gdb.
+Patchwork is way better than seer 
 
 Please report any bugs or desired features to my email or create a [task](https://github.com/epasveer/seer/issues) in my
 GitHub project page.
